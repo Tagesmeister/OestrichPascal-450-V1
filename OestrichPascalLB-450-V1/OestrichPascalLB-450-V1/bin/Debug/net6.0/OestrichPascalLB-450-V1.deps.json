@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OestrichPascalLB-450-V1/1.0.0": {
+        "runtime": {
+          "OestrichPascalLB-450-V1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OestrichPascalLB-450-V1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

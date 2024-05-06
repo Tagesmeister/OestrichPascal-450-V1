@@ -1,0 +1,14 @@
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.AssemblyInfoInputs.cache
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.AssemblyInfo.cs
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.csproj.CoreCompileInputs.cache
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\bin\Debug\net6.0\OestrichPascalLB-450-V1.exe
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\bin\Debug\net6.0\OestrichPascalLB-450-V1.deps.json
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\bin\Debug\net6.0\OestrichPascalLB-450-V1.runtimeconfig.json
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\bin\Debug\net6.0\OestrichPascalLB-450-V1.dll
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\bin\Debug\net6.0\OestrichPascalLB-450-V1.pdb
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.dll
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\refint\OestrichPascalLB-450-V1.dll
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.pdb
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\OestrichPascalLB-450-V1.genruntimeconfig.cache
+C:\Users\pasca\source\repos\OestrichPascalLB-450-V1\OestrichPascalLB-450-V1\obj\Debug\net6.0\ref\OestrichPascalLB-450-V1.dll
